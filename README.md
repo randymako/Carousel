@@ -18,6 +18,7 @@ Completed Stories:
   3. Sign In
   4. Tutorial Screens
   5. Image Timeline
+  6. Sign Up
 
 Optional Stories: 
   - Disable the keyboard
