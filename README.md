@@ -24,3 +24,8 @@ Optional Stories:
   - Page through tutorial and updated dots
   - "Take Carousel for a Spin" fades in on page 4
   - Show "Learn More" and dismiss the banner
+  
+---------------
+
+![carousel](https://cloud.githubusercontent.com/assets/12131281/10156502/9ff2e6f8-6636-11e5-9bc9-54147bdbbae1.gif)
+
