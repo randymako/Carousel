@@ -10,7 +10,7 @@ Coming Soon: I will update with intro animation attempt after the break
 
 -----------------------
 
-Hours: ~12
+Hours: ~14
 
 Completed Stories:
   1. Setup
